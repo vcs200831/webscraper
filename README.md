@@ -15,21 +15,6 @@ This is a Python project that scrapes data from IMDB's Top Rated Movies page and
 - requests 2.26.0 or higher
 - BeautifulSoup 4.10.0 or higher
 
-## Installation
-
-To install the required libraries, run the following command:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-To run the web scraper, run the following command:
-
-```bash
-python scraper.py
-```
 
 The output will be a CSV file named "movies.csv" in the same directory as the script.
 
